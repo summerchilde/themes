@@ -703,6 +703,10 @@ table,
 				margin-top: -#{2 * map-deep-get($config-global, "spacing", "vertical")};
 				position: relative;
 			}
+			// set z-index for cover block with overlay
+			&.wp-block-cover.has-background-dim {
+				z-index: 0;
+			}
 		}
 	}
 }
