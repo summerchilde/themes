@@ -406,6 +406,7 @@ Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-me
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .search-results .site-main > * {
 	padding: var(--global--spacing-vertical) 0;
 }
@@ -470,6 +471,9 @@ Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-me
 	padding-top: 0;
 	border: none;
 =======
+=======
+ul.wp-block-categories,
+>>>>>>> categories styles updated for  block pattern
 .wp-block-categories ul {
 	list-style-type: none;
 	padding: 0;
